@@ -139,7 +139,7 @@ public class SingleLinkedList
             Node cur = first;
             do
             {
-                System.out.println(cur.data);
+                System.out.print(cur.data + " ");
                 cur = cur.next;
             }
             while(cur != null);

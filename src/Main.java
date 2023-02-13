@@ -9,7 +9,8 @@ public class Main {
         stack.Show();
         System.out.println();
         stack.Remove();
-        System.out.println("----Removing an element----");
+        stack.Remove();
+        System.out.println("----Removing elements----");
         stack.Show();
         System.out.println();
         System.out.println();

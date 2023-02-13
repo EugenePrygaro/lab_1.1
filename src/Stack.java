@@ -37,7 +37,7 @@ public class Stack
             for (Object i:vect)
             {
                 if(i != null)
-                System.out.println(i);
+                System.out.print(i + " ");
             }
         else
             System.out.println("Is Empty!");
